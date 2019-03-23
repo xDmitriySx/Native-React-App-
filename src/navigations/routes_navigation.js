@@ -1,0 +1,2 @@
+export const GALLERY_PAGE = 'GALLERY_PAGE'
+export const PHOTO_DETAILS = 'PHOTO_DETAILS'
